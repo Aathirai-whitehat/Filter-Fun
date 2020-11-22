@@ -1,0 +1,28 @@
+body{
+    font-family: 'Lobster', cursive;
+    background-image: linear-gradient(to right bottom, #d16ba5, #ee748a, #f78a6f, #efa65c, #d9c35d, #afd069, #7ad988, #1bdfb2, #00d4d9, #00c4f8, #00afff, #5f95fb);
+}
+
+.heading{
+    background-color: #fec7d7;
+    font-size: 50px;
+    width: 50%;
+    padding: 20px;
+    box-shadow: 10px 10px 10px palegreen;
+    letter-spacing: 10px;
+    color : linear-gradient(to left bottom, #391dee, #ad00c2, #da0093, #ed006a, #ef0048, #f52f37, #f74a23, #f66200, #fe8900, #ffae00, #fed300, #f6f61b);
+}
+
+canvas{
+    box-shadow: 10px 10px 10px palevioletred;
+    margin-top: 100px;
+    border: #ad00c2 10px  ridge;
+
+}
+
+button{
+    color: peru;
+    background-color: thistle;
+    font-size: 20px;
+}
+
